@@ -1,0 +1,45 @@
+
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: end;
+    width: 90vw;
+    gap: 5px; 
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.box1{
+    width: 150px;
+    height: 450px;
+    border-radius: 15px;
+    background-color: hsl(0, 86%, 46%);
+}
+
+.box2 {
+    background-color: hsl(202, 87%, 46%);
+     width: 160px;
+    height: 250px;
+    border-radius: 15px;
+}
+
+.box3 {
+     background-color: hwb(51 7% 9%);
+      width: 150px;
+    height: 150px;
+}
+
+.box4{
+    background-color: brown;
+     width: 150px;
+    height: 150px;
+}
+
+.box5{
+     width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+}
