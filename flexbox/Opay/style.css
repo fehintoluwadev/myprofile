@@ -1,0 +1,110 @@
+body {
+    background-color: #f8f8fa;
+
+}
+.container {
+    padding: 20px;
+}
+.user{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+    width: 500px;
+    margin-bottom: 20px;
+
+}
+.left-user {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.right-user {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+.notificon {
+    width: 20px;
+    height: 20px;
+}
+
+#noticons {
+    width: 30px;
+    height: 30px;
+}
+
+.balance {
+    background-color: hsl(158, 100%, 36%);
+    border-radius: 4%;
+    width: 500px;
+    display: flex;
+}
+.balance-left {
+    display: flex;
+    
+}
+.olu {
+    text-align: baseline;
+}
+.balance-right {
+    display: flex;
+}
+.add-money {
+    
+}
+.trans{
+    margin-top: 15px;
+    ;
+}
+.transactions  {
+    border-radius: 4%;
+    background-color: #ffffff;
+    width: 500px;
+    padding: 15px 20px;
+    
+
+}
+.actions {
+    display: flex;
+    background-color: #ffffff;
+}
+.usertrans {
+    
+}
+.ttop {
+    display: flex;
+    justify-content: space-between;
+}
+.store-icon {
+ width: 20px;
+ height: 20px;
+ background-color: hsl(273, 36%, 95%);
+ padding: 10PX;
+ border-radius: 50%;
+
+}
+
+.ttop-right {
+    
+}
+.tbottom {
+    display: flex;
+   
+}
+.ttop-left {
+    display: flex;
+}
+.percentimg {
+ width: 20px;
+ height: 20px;
+ background-color: hsl(271, 42%, 86%);
+ padding: 10PX;
+ border-radius: 50%;
+}
